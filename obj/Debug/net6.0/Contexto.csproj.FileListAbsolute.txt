@@ -1,0 +1,14 @@
+D:\repo_2025\ct\Contexto\bin\Debug\net6.0\Contexto.exe
+D:\repo_2025\ct\Contexto\bin\Debug\net6.0\Contexto.deps.json
+D:\repo_2025\ct\Contexto\bin\Debug\net6.0\Contexto.runtimeconfig.json
+D:\repo_2025\ct\Contexto\bin\Debug\net6.0\Contexto.dll
+D:\repo_2025\ct\Contexto\bin\Debug\net6.0\Contexto.pdb
+D:\repo_2025\ct\Contexto\obj\Debug\net6.0\Contexto.GeneratedMSBuildEditorConfig.editorconfig
+D:\repo_2025\ct\Contexto\obj\Debug\net6.0\Contexto.AssemblyInfoInputs.cache
+D:\repo_2025\ct\Contexto\obj\Debug\net6.0\Contexto.AssemblyInfo.cs
+D:\repo_2025\ct\Contexto\obj\Debug\net6.0\Contexto.csproj.CoreCompileInputs.cache
+D:\repo_2025\ct\Contexto\obj\Debug\net6.0\Contexto.dll
+D:\repo_2025\ct\Contexto\obj\Debug\net6.0\refint\Contexto.dll
+D:\repo_2025\ct\Contexto\obj\Debug\net6.0\Contexto.pdb
+D:\repo_2025\ct\Contexto\obj\Debug\net6.0\Contexto.genruntimeconfig.cache
+D:\repo_2025\ct\Contexto\obj\Debug\net6.0\ref\Contexto.dll
