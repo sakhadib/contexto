@@ -26,7 +26,7 @@ Contexto is a powerful command-line tool that analyzes directory structures and 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/contexto.git
+git clone https://github.com/sakhadib/contexto.git
 cd contexto
 ```
 
@@ -36,6 +36,8 @@ dotnet build
 ```
 
 3. The executable will be available in the `bin/Debug/net6.0` directory.
+
+> Or you can use the pre-build. Instructions given in releases page
 
 ## Usage
 
